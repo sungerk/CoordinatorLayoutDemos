@@ -10,7 +10,7 @@
 
  2.TabLayoutViewPager hide or show Toolbar follow your's gesture.<br>
    
-   pulltorefresh and loadmore dependencies depend on [XRecyclerView](https://github.com/jianghejie/XRecyclerView)<br>
+   pulltorefresh and loadmore depend on [XRecyclerView](https://github.com/jianghejie/XRecyclerView)<br>
    
    custom Coordinatorlayout.Behavior to achieve hide or show FloatingActionButton
    
