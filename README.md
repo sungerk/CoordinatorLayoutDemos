@@ -8,7 +8,7 @@
 
 ![2](https://github.com/sungerk/CoordinatorLayoutDemos/blob/master/art/5.gif)
 
- 2.TabLayoutViewPager hide or show follow your's gesture.<br>
+ 2.TabLayoutViewPager hide or show Toolbar follow your's gesture.<br>
    
    pulltorefresh and loadmore dependencies depend on [XRecyclerView](https://github.com/jianghejie/XRecyclerView)<br>
    
