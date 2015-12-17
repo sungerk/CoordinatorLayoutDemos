@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:title="Main" />
+
+        <item
+            android:id="@+id/nav_scroller_hidden_toolbar"
+            android:title="ScrollerHiddenToolbar" />
+
+        <item
+            android:id="@+id/nav_recycler_hidden_toolbar"
+            android:title="RecyclerHiddenToolbar" />
+        <item
+            android:id="@+id/nav_viewpager"
+            android:title="HeaderViewPager" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

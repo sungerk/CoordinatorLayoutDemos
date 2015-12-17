@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/headerView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="true"
+    android:paddingBottom="?attr/actionBarSize"
+    app:layout_collapseMode="parallax">
+
+    <TextView
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#3CB371"
+        android:gravity="center"
+        android:text="Header Part One"
+        android:textColor="@color/white">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout"
+        android:background="#1285b3"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="Header Part Two"
+        android:textColor="@color/white" />
+
+    <TextView
+
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button"
+        android:background="#12b325"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="Header Part Three"
+        android:textColor="@color/white" />
+
+</RelativeLayout>
