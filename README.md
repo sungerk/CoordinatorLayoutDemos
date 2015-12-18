@@ -20,7 +20,7 @@
 3.used  custom Coordinatorlayout.Behavior achieve  hide or show Toolbar android FootView quickly which liked JianShu
 ![4](https://github.com/sungerk/CoordinatorLayoutDemos/blob/master/art/2.gif)
 
-![5](https://github.com/sungerk/CoordinatorLayoutDemos/blob/master/art/2.gif)
+![5](https://github.com/sungerk/CoordinatorLayoutDemos/blob/master/art/3.gif)
 
 License
 -------
